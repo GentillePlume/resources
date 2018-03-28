@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;  
+    height: 0;
+    box-sizing: border-box;
+    
+    /* Remove the bullets for the lists and the decorations for the links */
+    list-style: none;
+    text-decoration: none;
+}
+
+/* Remove the useless horizontal scrollbar */
+body {overflow-x: hidden}
