@@ -1,0 +1,6 @@
+[submodule "Existing repositories/Font-Awesome"]
+	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "Existing repositories/animate.css"]
+	url = https://github.com/daneden/animate.css.git
+[submodule "Existing repositories/typed.js"]
+	url = https://github.com/mattboldt/typed.js.git
