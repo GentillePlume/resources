@@ -1,5 +1,5 @@
 # Resources ![BOX](https://i.imgur.com/oeSHh6y.png)
-You can find here cool code & resources for web developement ! 📦
+You can find here cool code & resources for web development ! 📦
 
 # Code resources list
 
